@@ -5,7 +5,7 @@
 ### Cuisine
 
 [Cuisine](/sample_page)
-<img src="images/Welcoem Page.jpg?raw=true"/width="400" height="790">
+<img src="images/Welcoem Page.jpg?raw=true" width="400" height="790" />
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
