@@ -1,10 +1,11 @@
 ```css
-title{
+h1{
 color: black;
 }
 ```
+<h1>
 title: Pravitha Pratheep # your name (or website title) here
-
+</h1>
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   A senior student at Seattle Pacific University majoring in Information Systems
