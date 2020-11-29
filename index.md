@@ -6,7 +6,7 @@
 
 [Cuisine](/sample_page)
 <img src="images/Welcoem Page.jpg?raw=true" width="300" height="600" />
-
+<h3>A System Design Proposal for a imaginary Application called Cuisine </h3>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
