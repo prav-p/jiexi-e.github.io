@@ -1,11 +1,14 @@
-title: John Doe # your name (or website title) here
+title: Pravitha Pratheep # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  A senior student at Seattle Pacific University majoring in Information Systems
+  with an expected graduation at June 2021.
   <br><br>
-  Second description 
+  Aspire to be in the field of Data Analytics, Product Managment and UI. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Wanting to give back to the community
+  <br><br>
+  <a href="https://www.linkedin.com/in/jiexieow/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
