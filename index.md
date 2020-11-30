@@ -4,8 +4,8 @@
 
 ### Cuisine
 
-[Cuisine](/sample_page)
-<a href="/sample_page">
+[Cuisine](/cuisine_page)
+<a href="/cuisine_page">
     <img src="images/Welcoem Page.jpg?raw=true" width="300" height="600" />
 </a>
 <h3>
