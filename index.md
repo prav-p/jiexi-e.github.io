@@ -10,7 +10,7 @@
 <h3>
   A System Design Proposal for a imaginary Application called Cuisine 
 </h3>
-
+<!-- COMMENT -->
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
