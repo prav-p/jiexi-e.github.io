@@ -2,7 +2,7 @@
 
 ---
 
-### Cuisine(/cuisine_page.md)
+### Cuisine
 
 <a href="/cuisine_page">
     <img src="images/Welcoem Page.jpg?raw=true" width="300" height="600" />
