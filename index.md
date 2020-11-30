@@ -5,7 +5,7 @@
 ### Cuisine
 
 <a href="/cuisine_page">
-    <img src="images/Welcoem Page.jpg?raw=true" width="300" height="600" />
+    <img src="images/Welcoem Page.jpg?raw=true" width="200" height="400" />
 </a>
 <h3>
   A System Design Proposal for a imaginary Application called Cuisine 
