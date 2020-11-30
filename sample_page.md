@@ -21,5 +21,10 @@ if (isAwesome){
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Login Page.jpg?raw=true"/>
+<img src="images/Recipes Page.jpg?raw=true"/>
+<img src="images/Payment page.jpg?raw=true"/>
+<img src="images/Register.jpg?raw=true"/>
+
+
 
