@@ -3,13 +3,13 @@
 
 ### 1. Cuisine Mockup UI
 
-## Login Page
+### Login Page
 <img src="images/Login Page.jpg?raw=true"/>
-## Recipes Page
+### Recipes Page
 <img src="images/Recipes Page.jpg?raw=true"/>
-## Payment Page
+### Payment Page
 <img src="images/Payment page.jpg?raw=true"/>
-## Register Page
+### Register Page
 <img src="images/Register.jpg?raw=true"/>
 
 
