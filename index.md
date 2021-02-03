@@ -4,7 +4,7 @@
 
 
 <h3>
-System Design Project 
+System Design Project CSC3150
 </h3>
 <a href="/cuisine_page">
     <img src="images/Welcoem Page.jpg?raw=true" width="200" height="400" />
@@ -13,7 +13,7 @@ System Design Project
 ---
 
 <h3>
- Data Visualisation & Analytics Project
+ Data Visualisation & Analytics Project BUS4650
 </h3>
 <a href="/avocado_page">
     <img src="images/avo_front.jpg?raw=true" width="600" height="400" />
