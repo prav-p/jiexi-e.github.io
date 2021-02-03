@@ -16,7 +16,7 @@
 <h3>
  A Data Visualisation & Analytics Project
 </h3>
-<a href="/avocado_page">
+<a href="/avocado_page.md">
     <img src="images/avo_front.jpg?raw=true" width="500" height="400" />
 </a>
      
