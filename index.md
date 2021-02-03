@@ -4,7 +4,7 @@
 
 
 <h3>
- A System Design Project 
+System Design Project 
 </h3>
 <a href="/cuisine_page">
     <img src="images/Welcoem Page.jpg?raw=true" width="200" height="400" />
@@ -13,10 +13,18 @@
 ---
 
 <h3>
- A Data Visualisation & Analytics Project
+ Data Visualisation & Analytics Project
 </h3>
 <a href="/avocado_page">
     <img src="images/avo_front.jpg?raw=true" width="500" height="400" />
+</a>
+     
+---
+<h3>
+ Summer 2020 Amazon Web Service Certification Preparation
+</h3>
+<a href="/aws">
+    <img src="images/aws.png?raw=true" width="400" height="400" />
 </a>
      
 ---
