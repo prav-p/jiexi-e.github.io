@@ -20,10 +20,10 @@
     <img src="images/avo_front.jpg?raw=true" width="500" height="400" />
 </a>
      
-     
-<!--
+
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!--
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ### Category Name 2
