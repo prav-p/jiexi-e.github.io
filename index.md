@@ -3,13 +3,23 @@
 ---
 
 ### Cuisine
-
-<a href="/cuisine_page">
-    <img src="images/Welcoem Page.jpg?raw=true" width="200" height="400" />
-</a>
 <h3>
  A System Design Project 
 </h3>
+<a href="/cuisine_page">
+    <img src="images/Welcoem Page.jpg?raw=true" width="200" height="400" />
+</a>
+
+---
+
+### Avocado Price Analysis
+<h3>
+ A Data Visualisation & Analytics Project
+</h3>
+<a href="/avocado_page">
+    <img src=images/avo_front.jpg?raw=true"width="400" height="400" />
+         </a>
+                                                                   
 <!--
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
