@@ -8,7 +8,7 @@
     <img src="images/Welcoem Page.jpg?raw=true" width="200" height="400" />
 </a>
 <h3>
-  A system design proposal for a imaginary application called Cuisine 
+  Cuisine, A System Design Project 
 </h3>
 <!--
 [Project 2 Title](/pdf/sample_presentation.pdf)
