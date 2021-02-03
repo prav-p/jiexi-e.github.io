@@ -5,7 +5,7 @@
 
 **Outcome**: Achieved a simple mockup for the application along with a well planned system specification. 
 
-### 1. Cuisine Mockup UI
+
 
 ### Login Page
 <img src="images/Login Page.jpg?raw=true"/>
