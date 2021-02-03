@@ -19,7 +19,7 @@
     <img src="images/avo_front.jpg?raw=true" width="500" height="400" />
 </a>
      
-
+---
 
 <!--
 [Project 3 Title](http://example.com/)
