@@ -4,6 +4,6 @@ This is a team project which consist of 3 team members, Aaron Lumpkin, Amanda Yo
 I took on the role to carry out Data Modeling with RapidMiner to identify predictors to predict the target variable, prices of avocado. 
 
 ### Slides on Avocado Price Analysis
-<a href="/pdf/Data Analytics Final Presentation.pptx">
+(/pdf/Data Analytics Final Presentation.pptx)
 
 
