@@ -2,7 +2,7 @@
 
 ---
 
-### Cuisine
+
 <h3>
  A System Design Project 
 </h3>
@@ -12,7 +12,6 @@
 
 ---
 
-### Avocado Price Analysis
 <h3>
  A Data Visualisation & Analytics Project
 </h3>
