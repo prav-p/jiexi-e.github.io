@@ -6,7 +6,7 @@
 <h3>
 Basket
 </h3>
-<a href="/cuisine_page">
+<a href="/Basket">
     <img src="images/First Time User Frame.jpg?raw=true" width="200" height="400" />
 </a>
 
