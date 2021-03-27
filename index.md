@@ -4,6 +4,16 @@
 
 
 <h3>
+Basket
+</h3>
+<a href="/cuisine_page">
+    <img src="images/First Time User Frame.jpg?raw=true" width="200" height="400" />
+</a>
+
+---
+
+
+<h3>
 System Design Project CSC3150
 </h3>
 <a href="/cuisine_page">
