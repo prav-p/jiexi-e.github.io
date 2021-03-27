@@ -19,4 +19,4 @@
 ### Empty Basket Page
 <img src="images/Empty Cart.jpg?raw=true"/>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F1VTK2Sjvjr6izTILztoyAb%2FGoGoGrocery-Portfolio%3Fnode-id%3D89%253A0%26viewport%3D-1030%252C775%252C1%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
+[Prototype](https://www.figma.com/proto/1VTK2Sjvjr6izTILztoyAb/GoGoGrocery-Portfolio?node-id=89%3A0&viewport=-1030%2C775%2C1&scaling=scale-down&page-id=0%3A1)
