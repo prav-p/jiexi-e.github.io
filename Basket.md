@@ -9,7 +9,7 @@
             In addition, with the government advising people to social distance, mom and pop shops are usually small and compact, not providing much space for customers to social distance. With a delivery platform catered for small grocery stores, they are able to maintain their businesses.  
             
 **Outcome:** With that in mind, I designed the prototype of Basket, which will be implemented in the MVP for launching in June 2021. I do not have much experience in Figma but I
-              I gained them as I went on designing the prototype with the focus of ensuring the satisfaction of the users. After carrying out SWOT analysis, I decided to use orange as the main colour of the app rather than green that is widely used in other grocery applications. Orange represents warmth and satisfaction, mom and pop shops always provided the welcoming feeling.
+              I gained them as I went on designing the prototype with the focus of ensuring the satisfaction of the users. 
               
 **[Prototype](https://www.figma.com/proto/1VTK2Sjvjr6izTILztoyAb/GoGoGrocery-Portfolio?node-id=89%3A0&viewport=-1030%2C775%2C1&scaling=scale-down&page-id=0%3A1)**
 
